@@ -4,8 +4,6 @@
 
 #define CHUNK 10
 
-/*
-
 // problema 4.0
 
 typedef struct
@@ -24,11 +22,8 @@ int main(void)
     }
     return 0;
 }
-*/
 
 //problema 4.1
-
-/*
 
 typedef struct
 {
@@ -83,11 +78,7 @@ int main(void)
     return 0;
 }
 
-*/
-
 //problema 4.2
-
-/*
 
 typedef struct
 {
@@ -173,11 +164,7 @@ int main(void)
     return 0;
 }
 
-*/
-
 //problema 4.3
-
-/*
 
 typedef struct
 {
@@ -275,11 +262,7 @@ int main(void)
     return 0;
 }
 
-*/
-
 //problema 4.4
-
-/*
 
 typedef struct
 {
@@ -330,11 +313,7 @@ int main()
     return 0;
 }
 
-*/
-
 //problema 4.5
-
-/*
 
 typedef struct
 {
@@ -391,11 +370,7 @@ int main(void)
     return 0;
 }
 
-*/
-
 //problema 4.6
-
-/*
 
 typedef struct
 {
@@ -517,11 +492,7 @@ int main(void)
     return 0;
 }
 
-*/
-
 //problema 1 proiect
-
-/*
 
 typedef struct
 {
@@ -660,8 +631,6 @@ int main(void)
     }
     return 0;
 }
-
-*/
 
 //problema 2 proiect
 
