@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<string.h>
 
-//pentru a rula unul dintre probleme va rebui pus tot restul codului in comentarii, inafara de biblioteci
+//pentru a rula unul dintre probleme va trebui pus tot restul codului in comentarii, inafara de biblioteci
 
 //problema 1
 
