@@ -4,6 +4,8 @@
 #include <string.h>
 #include <ctype.h>
 
+//Pentru a rula una dintre probleme va trebui pus tot restul codului in comentarii, inafara de biblioteci
+
 //problema 1
 
 void err(int cond,const char *fmt,...)
