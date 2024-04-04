@@ -3,6 +3,8 @@
 #include<stdlib.h>
 #include<string.h>
 
+//pentru a rula unul dintre probleme va rebui pus tot restul codului in comentarii, inafara de biblioteci
+
 //problema 1
 
 int main(void)
