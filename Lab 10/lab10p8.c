@@ -23,15 +23,13 @@ int binary(int *v,int a,int z,int elem)
     int mijl=(a+z)/2;
     if(v[mijl]>elem && a!=z)
     {
-        printf("%d - %d \n",a,z);
-        return binary(v,a,mijl-1,elem);
+        return binary(v,a,mijl,elem);
     }
     else
     {
         if(v[mijl]<elem && a!=z)
         {
-            printf("%d - %d \n",a,z);
-            return binary(v,mijl,z,elem);
+            return binary(v,mijl+1,z,elem);
         }
         else
         {
