@@ -1,5 +1,8 @@
 #include<stdio.h>
 
+//Se consideră o matrice cu m linii și n coloane, numere naturale. Folosind
+//metoda Divide et Impera, determinați suma numerelor pare din matrice
+
 int suma(int a1,int a2,int z1,int z2,int n,int a[][n])
 {
     int aux1,aux2,e1,e2,m1,m2,m3,m4;
