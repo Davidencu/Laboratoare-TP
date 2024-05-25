@@ -1,6 +1,10 @@
 #include<stdio.h>
 #include<math.h>
 
+//Se dă funcția f(x)=sin(x)+sin(2∗x)+x și o valoare y. Știind că funcția este strict
+//crescătoare pe intervalul [0,1), se cere să se găsească pentru ce x∈[0,1)
+//avem că f(x) ≈ y(aproximare cu 8 zecimale).
+
 float f(float x,float y)
 {
     return sin(x)+sin(2*x)+x-y;
