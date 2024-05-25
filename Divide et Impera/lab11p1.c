@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<math.h>
 
+//Se consideră un șir cu n elemente, numere naturale. Folosind metoda Divide
+//et Impera, determinați câte elemente impare sunt în acest șir.
+
 int numarare(int a,int z,int *v)
 {
     int c=(a+z)/2;
