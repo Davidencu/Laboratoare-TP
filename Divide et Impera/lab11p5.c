@@ -1,5 +1,9 @@
 #include<stdio.h>
 
+//Se dă un vector cu n elemente numere naturale. Folosind metoda Divide et
+//Impera să se verifice dacă are elementele ordonate strict crescător sau strict
+//descrescător.
+
 int sgn(int a,int b)
 {
     int nr;
