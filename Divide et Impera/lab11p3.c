@@ -1,5 +1,10 @@
 #include<stdio.h>
 
+//Se dă un vector x cu n elemente numere naturale, ordonate crescător, și un
+//vector y cu m elemente, de asemenea numere naturale. Verificați pentru
+//fiecare element al vectorului y dacă apare în x. Se va folosi tehnica Divide et
+//Impera.
+
 int c(int *x,int a,int z,int elem)
 {
     int mij=(a+z)/2;
