@@ -1,1 +1,1 @@
-Aici pot fi gasite toate problemele rezolvate de la laboratoarele de TP
+The solutions to the problems from the Programming Techniques laboratories
